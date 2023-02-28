@@ -1,0 +1,25 @@
+
+/* Centering all the contents */
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Adjusting the header */
+.header {
+    color: #E8C5B0;
+    background-color: #E39AC7;
+    font-size: 40px;
+}
+
+/* Adjusting the links */
+.links {
+    background-color: #8ECCD4;
+}
+
+/* Adjusting the source */
+.source {
+    background-color: #E8C5B0;
+}
