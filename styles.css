@@ -1,25 +1,24 @@
-
 /* Centering all the contents */
 .center {
-    margin: auto;
-    width: 50%;
-    padding: 40px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+  width: 50%;
+  padding: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* Adjusting the header */
 .header {
-    color: #E8C5B0;
-    background-color: #E39AC7;
-    font-size: 40px;
+  color: #e8c5b0;
+  background-color: #e39ac7;
+  font-size: 40px;
 }
 
 /* Adjusting the links */
 .links {
-    background-color: #8ECCD4;
+  background-color: #8eccd4;
 }
 
 /* Adjusting the source */
 .source {
-    background-color: #E8C5B0;
+  background-color: #e8c5b0;
 }
